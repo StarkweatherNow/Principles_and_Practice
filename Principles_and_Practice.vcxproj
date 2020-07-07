@@ -137,12 +137,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\StarkweatherNow\C867_Programming\Exercises\Hello_World.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\StarkweatherNow\C867_Programming\Exercises\std_lib_facilities.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
